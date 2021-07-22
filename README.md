@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abreuleandro
-- 👀 I’m interested CRM systems like SAP CX and Salesforce
+- 👀 I’m interested in CRM systems like SAP CX and Salesforce
 - 🌱 I’m currently learning Python and Salesforce
 - 📫 You can reach me at [`LinkedIn`](https://www.linkedin.com/in/abreuleandro/) and [`Twitter`](https://twitter.com/abreuleandro)
 
